@@ -1,3 +1,5 @@
+alert('Olá Mundo!')
+
 // Agrupando os Elements da DOM
 const wrapper = document.querySelector('.wrapper');
 const loginLink = document.querySelector('.login-link');
