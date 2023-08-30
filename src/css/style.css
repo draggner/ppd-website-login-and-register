@@ -125,7 +125,7 @@ header {
   padding: 40px;
 }
 
-.wrapper .form-box.login{
+.wrapper .form-box .login{
   transition: transform .18s ease;
   transform: translateX(0);
 }
