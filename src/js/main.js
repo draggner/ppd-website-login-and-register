@@ -1,4 +1,3 @@
-alert('Olá Mundo!')
 
 // Agrupando os Elements da DOM
 const wrapper = document.querySelector('.wrapper');
@@ -10,8 +9,6 @@ const registerLink = document.querySelector('.register-link');
 const btnPopup = document.querySelector('.btn-origin')
 
 const iconClose = document.querySelector('.icon-close')
-
-
 
 registerLink.addEventListener('click', () => {
   wrapper.classList.add('active');
