@@ -1,5 +1,9 @@
 # Projeto Pratico de Desenvolvimento - Website login and register
 
+<img src="./src/img/previw-homePage.png">
+<img src="./src/img/preview-homePageLogin.png">
+<img src="./src/img/previw-homePageRegister.png">
+
 Projeto de estudo, aprender alguns conceitos de HTML, CSS e JS em diversos contextos.
 
 ## Tecnologias
