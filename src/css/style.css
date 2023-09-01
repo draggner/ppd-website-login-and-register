@@ -98,15 +98,9 @@ header {
   justify-content: center;
   align-items: center;
 
-  /* overflow: hidden;
 
-  transition: transform .5s ease, height .2 ease;
+  /* overflow: hidden; */
 
-  transform: scale(0); */
-}
-
-.wrapper .active-popup {
-  transform: scale(1);
 }
 
 .wrapper .active {
@@ -118,25 +112,14 @@ header {
   padding: 40px;
 }
 
-.wrapper .form-box .login {
-  transition: transform .18s ease;
-  transform: translateX(0);
-}
-
-.wrapper .active .form-box .login {
+.wrapper.active .form-box.login{
   transition: none;
   transform: translateX(-400px);
 }
 
-.wrapper .form-box .register {
+.wrapper .form-box.register{
   position: absolute;
-  transition: none;
   transform: translateX(400px);
-}
-
-.wrapper .active .form-box .register {
-  transition: transform .18s ease;
-  transform: translateX(0);
 }
 
 .wrapper .icon-close {
@@ -156,6 +139,21 @@ header {
   cursor: pointer;
   z-index: 1;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .form-box h2 {
   font-size: 2em;
@@ -183,6 +181,14 @@ header {
 
   transition: .5s;
 }
+
+
+
+
+
+
+
+
 
 .input-box input:focus~label,
 .input-box input:valid~label {
