@@ -21,6 +21,7 @@ Conforme a construção do projeto no vídeo, houve interfêrencias que não res
 - Modificações visualmente para README.md
 - Adicionar um fav icon
 - Responsividade
+- Fazer alterações nas transções de Login ao Register e vice-versa
 - Adicionar novas abas da página
 - Restruturar o HTML e aplicando outros conceitos
 
