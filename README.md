@@ -19,7 +19,7 @@ Conforme a construção do projeto no vídeo, houve interfêrencias que não res
 ### Pontos de melhorias
 
 - Modificações visualmente para README.md
-- Adicionar um fav icon
+- Adicionar um fav icon (concluido)
 - Responsividade
 - Fazer alterações nas transções de Login ao Register e vice-versa
 - Adicionar novas abas da página
